@@ -2,7 +2,7 @@
 
 Walk amongst the Space Nachos. Supports Teleportation movement with SteamVR.
 
-![SpaceNachosVR.jpg](SpaceNachosVR.jpg)
+![SpaceNachosVR-InGame.jpg](SpaceNachosVR-InGame.jpg)
 
 ## Background
 
@@ -30,3 +30,4 @@ in any way. It's a simple joke.
 
 Clone, delete the Nachos, import any other models for more silly.
 
+![SpaceNachosVR.jpg](SpaceNachosVR.jpg)
