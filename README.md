@@ -1,6 +1,8 @@
 # Space Nachos VR
 
-Walk amongst the Space Nachos.
+Walk amongst the Space Nachos. Supports Teleportation movement with SteamVR.
+
+![SpaceNachosVR.jpg](SpaceNachosVR.jpg)
 
 ## Background
 
